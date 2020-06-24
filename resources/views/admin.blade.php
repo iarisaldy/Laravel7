@@ -84,7 +84,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                WEB PROFILE
+                ADMIN WEB PROFILE
             </div>
 
             <div class="links">
